@@ -6,9 +6,6 @@
 
 Jhohan Nicolas Sedano correa, ID 000522547, Email: jhohan.sedano@upb.edu.co
 
-**Ingeniería en Diseño de Entretenimiento Digital**  
-
-
 
 
 ##  Descripcion
