@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller2_Scripting_Correccion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765dc41e5da21f819708e6038f068f6b466e64f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b52ad2c1ed854c251af802175a784bef2ba9b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller2_Scripting_Correccion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller2_Scripting_Correccion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ namespace Taller2_Scripting_Correccion
             sequence.AddChild(new ParCheckTask(4));
 
             var root = new Root(sequence);
-            var tree = new BehaviourTree(root);
+            var tree = new BehaviourTreeEngine(root);
 
             Console.WriteLine("Resultado del árbol: " + tree.Execute());
         }
