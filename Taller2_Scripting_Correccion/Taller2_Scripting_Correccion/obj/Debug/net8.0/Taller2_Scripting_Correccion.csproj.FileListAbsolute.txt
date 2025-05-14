@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.AssemblyInfo.cs
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.sourcelink.json
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\bin\Debug\net8.0\Taller2_Scripting_Correccion.exe
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\bin\Debug\net8.0\Taller2_Scripting_Correccion.deps.json
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\bin\Debug\net8.0\Taller2_Scripting_Correccion.runtimeconfig.json
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\bin\Debug\net8.0\Taller2_Scripting_Correccion.dll
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\bin\Debug\net8.0\Taller2_Scripting_Correccion.pdb
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.dll
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\refint\Taller2_Scripting_Correccion.dll
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.pdb
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\Taller2_Scripting_Correccion.genruntimeconfig.cache
+C:\Users\nicol\Documents\GitHub\Correccion_Parcial_2\Taller2_Scripting_Correccion\Taller2_Scripting_Correccion\obj\Debug\net8.0\ref\Taller2_Scripting_Correccion.dll

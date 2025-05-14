@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4350E-7538-4275-8967-B697CE8BDE6F}|BehaviourTree.Tests\\BehaviourTree.Tests.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\behaviourtree.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4350E-7538-4275-8967-B697CE8BDE6F}|BehaviourTree.Tests\\BehaviourTree.Tests.csproj|solutionrelative:behaviourtree.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\behaviourtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\behaviourtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\parchecktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\parchecktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|c:\\users\\nicol\\documents\\github\\correccion_parcial_2\\taller2_scripting_correccion\\taller2_scripting_correccion\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1355B2A6-1261-40F2-BBE7-4A44CEBA7C62}|Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion.csproj|solutionrelative:taller2_scripting_correccion\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\BehaviourTree.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BehaviourTree.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\BehaviourTree.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BehaviourTree.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:16:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BehaviourTree.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\BehaviourTree.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\BehaviourTree.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\BehaviourTree.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\BehaviourTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:09:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParCheckTask.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\ParCheckTask.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\ParCheckTask.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\ParCheckTask.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\ParCheckTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:09:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sequence.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Sequence.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Sequence.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Sequence.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Sequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:08:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Selector.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Selector.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Selector.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Selector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:07:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Task.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Task.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Task.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:06:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Root.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Root.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Root.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:05:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Composite.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Composite.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Composite.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:04:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Node.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Node.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Node.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:03:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Program.cs",
+              "RelativeDocumentMoniker": "Taller2_Scripting_Correccion\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\Taller2_Scripting_Correccion\\Program.cs",
+              "RelativeToolTip": "Taller2_Scripting_Correccion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:56:36.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
