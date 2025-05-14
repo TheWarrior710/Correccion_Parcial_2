@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "BehaviourTree.Tests\\BehaviourTreeTests.cs",
               "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Correccion_Parcial_2\\Taller2_Scripting_Correccion\\BehaviourTree.Tests\\BehaviourTreeTests.cs",
               "RelativeToolTip": "BehaviourTree.Tests\\BehaviourTreeTests.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwBMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T06:32:28.533Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Taller2_Scripting_Correccion\\BehaviourTreeEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:52:05.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:52:05.496Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "Taller2_Scripting_Correccion\\Root.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:05:30.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:05:30.837Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "Taller2_Scripting_Correccion\\Composite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:04:08.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:04:08.106Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "Taller2_Scripting_Correccion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:56:36.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:56:36.353Z"
             }
           ]
         }

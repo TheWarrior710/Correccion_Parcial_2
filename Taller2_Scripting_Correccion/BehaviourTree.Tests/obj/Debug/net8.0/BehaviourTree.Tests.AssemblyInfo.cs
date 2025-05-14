@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BehaviourTree.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b52ad2c1ed854c251af802175a784bef2ba9b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29a17fe6abaaaef2d83df1e94373c5cc09e99336")]
 [assembly: System.Reflection.AssemblyProductAttribute("BehaviourTree.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BehaviourTree.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
